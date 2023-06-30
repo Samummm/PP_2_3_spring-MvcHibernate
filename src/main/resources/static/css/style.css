@@ -1,0 +1,19 @@
+h1 {
+    font-family: Impact, sans-serif;
+    color: #1c5c9b;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+table th {
+    color:#FF0000;
+    padding: 5px;
+}
+
+table td {
+    color: #2c7424;
+    padding: 5px;
+}
